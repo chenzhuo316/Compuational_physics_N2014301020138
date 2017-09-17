@@ -9,3 +9,4 @@ School of Physics and Technology, Wuhan University
 [exercise 9:chapter3 problem3.16:strange attractor]()<br>
 [exercise 10:chapter3 problem3.31:billiard ball on diverse table]()<br>
 [exercise 11:chapter4 problem4.11:the percession of mercury]()<br>
+[exercise 12:chapter4 problem4.18:the kirkwood gap]()<br>
