@@ -10,3 +10,6 @@ School of Physics and Technology, Wuhan University
 [exercise 10:chapter3 problem3.31:billiard ball on diverse table]()<br>
 [exercise 11:chapter4 problem4.11:the percession of mercury]()<br>
 [exercise 12:chapter4 problem4.18:the kirkwood gap]()<br>
+[exercise 13:chapter5 problem5.7:the jacobi method v.s. the sor algorithm]()<br>
+[exercise 14:chapter6 problem6.15:the realistic string problem]()<br>
+[final project:用轨道能量分析kirkwood gap的缝宽]()<br>
