@@ -1,4 +1,5 @@
 # Compuational_physics_N2014301020138
 School of Physics and Technology, Wuhan University
-[baidu](www.baidu.com)<br>
-[baidu](https://www.baidu.com/)<br>
+[exercise_3]()<br>
+[exercise_4]()<br>
+[exercise_4]()<br>    
