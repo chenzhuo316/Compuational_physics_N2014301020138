@@ -6,3 +6,4 @@ School of Physics and Technology, Wuhan University
 [exercise 6:chapter2 problem2.9&2.10:the cannon]()<br>
 [exercise 7:chapter2 problem2.19:the spin of baseball and visual motion of baseball]()<br>
 [exercise 8:chapter3 problem3.4:non-linear oscillator]()<br>
+[exercise 9:chapter3 problem3.16:strange attractor]()<br>
