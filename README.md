@@ -7,3 +7,4 @@ School of Physics and Technology, Wuhan University
 [exercise 7:chapter2 problem2.19:the spin of baseball and visual motion of baseball]()<br>
 [exercise 8:chapter3 problem3.4:non-linear oscillator]()<br>
 [exercise 9:chapter3 problem3.16:strange attractor]()<br>
+[exercise 10:chapter3 problem3.31:billiard ball on diverse table]()<br>
