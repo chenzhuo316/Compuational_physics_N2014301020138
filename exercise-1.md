@@ -1,4 +1,4 @@
-#name flashing
+#name flashing python
 ```python
 a="####  #  #  ####  #   #    ####  #  #  #  #   ##"
 b="#     #  #  #     ##  #      #   #  #  #  #  #  #"
