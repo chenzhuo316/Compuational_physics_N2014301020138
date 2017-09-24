@@ -19,3 +19,4 @@ while op<120:
     print (e) 
     op=op+1 
 ```
+![](https://github.com/chenzhuo316/Compuational_physics_N2014301020138/blob/master/gif/My%20name.gif)
