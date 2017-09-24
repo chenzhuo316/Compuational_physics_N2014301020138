@@ -1,5 +1,6 @@
 # Compuational_physics_N2014301020138
-School of Physics and Technology, Wuhan University
+School of Physics and Technology, Wuhan University<br>
+[exercise_2:name flashing](https://github.com/chenzhuo316/Compuational_physics_N2014301020138/blob/master/exercise-1.md)<br>
 [exercise_3:all level]()<br>
 [exercise_4:chapter1 problem1.5:the decay of two kinds of particles]()<br>
 [exercise_5:chapter1 problem1.6:population growth]()<br>
