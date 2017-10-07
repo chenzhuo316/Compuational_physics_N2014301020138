@@ -2,7 +2,7 @@
 answer Known equation ！[]()<br>
 add equation1 to equation 2 ！[]()<br>
 taken equation1 from equation 2 ![]()<br>
-we can get the conclusion ![]()<br>
+we can get the conclusion ![](https://github.com/chenzhuo316/Compuational_physics_N2014301020138/blob/master/gif/QQ20171007-223154%402x.png)<br>
 ### code
 ```import pylab as pl
 class nuclei_decay:
