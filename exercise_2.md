@@ -55,3 +55,5 @@ a = nuclei_decay()
 a.calculate()
 a.show_results()
 a.store_results()
+```
+### image ![](https://github.com/chenzhuo316/Compuational_physics_N2014301020138/blob/master/gif/QQ20171007-224803%402x.png)
