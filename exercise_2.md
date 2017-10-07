@@ -4,7 +4,14 @@ add equation1 to equation 2 ！[]()<br>
 taken equation1 from equation 2 ![]()<br>
 we can get the conclusion ![]()<br>
 ### code
-```    def __init__(self, number_of_A = 100, number_of_B = 0, time_constant = 1, time_of_duration = 5, time_step = 0.05):
+```import pylab as pl
+class nuclei_decay:
+    """
+    A decay problem with two types of nuclei A and B.
+    Simulation of the decay.
+    Program to problem_1.5 on the book Computational Physics.
+    """
+   def __init__(self, number_of_A = 100, number_of_B = 0, time_constant = 1, time_of_duration = 5, time_step = 0.05):
         # unit of time is second
         self.N_A = [number_of_A]
         self.N_B = [number_of_B]
