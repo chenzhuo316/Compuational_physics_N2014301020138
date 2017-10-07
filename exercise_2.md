@@ -1,1 +1,2 @@
-
+### Consider again a decay problem with two type of nuclei A ande B, but now suppose that nuclei of type A decay into ones of type B.While nuclei of type B decay into ones of type A.Strictly speaking,this is not a decay process,since it is possible for the type B nuclei to turn back into type A nuclei. A better analogy would be a reasonance in which a system can tunnel or move back and forth between two states A and B which have equal energies. The corresponding rate equations are 
+  
