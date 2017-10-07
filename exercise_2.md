@@ -49,7 +49,7 @@ class nuclei_decay:
             myfile.write(str(self.t[i]))
             myfile.write(str(self.N_A[i]))
         myfile.close()
-        print myfile
+        print(myfile)
 
 a = nuclei_decay()
 a.calculate()
