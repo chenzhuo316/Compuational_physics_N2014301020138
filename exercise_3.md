@@ -63,7 +63,7 @@ a.run()
 a.show_results()
 ```
 ###image
-![](https://github.com/chenzhuo316/Compuational_physics_N2014301020138/blob/master/gif/4BBCF4D9-347D-4CCD-BA64-5EB26AF7742D.png)<br>
+![](https://github.com/chenzhuo316/Compuational_physics_N2014301020138/blob/master/gif/QQ20171015-180812%402x.png)<br>
 range from 0 to 45
 ![](https://github.com/chenzhuo316/Compuational_physics_N2014301020138/blob/master/gif/QQ20171015-180531%402x.png)<br>
 range from 45 to 90
