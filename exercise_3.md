@@ -51,13 +51,6 @@ class cannon_shells:
         }
         pl.title('Trajectory of cannon shell')
         pl.text(0.95 * max(self.x), 0.95 * max(self.y),'No drag', fontdict=font)
-        pl.text(0.8 * self.tx[1], 1.01 * self.ty[1], '30', fontdict=font2)
-        pl.text(0.8 * self.tx[2], 1.01 * self.ty[2], '35', fontdict=font2)
-        pl.text(0.8 * self.tx[3], 1.01 * self.ty[3], '40', fontdict=font2)
-        pl.text(0.8 * self.tx[4], 1.01 * self.ty[4], '45', fontdict=font2)
-        pl.text(0.8 * self.tx[5], 1.01 * self.ty[5], '50', fontdict=font2)
-        pl.text(0.8 * self.tx[6], 1.01 * self.ty[6], '55', fontdict=font2)
-        pl.text(0.8 * self.tx[7], 1.01 * self.ty[7], '60', fontdict=font2)
         pl.plot(self.x,self.y)
         pl.xlabel('x ($km$)')
         pl.ylabel('y ($km$)')
@@ -67,3 +60,4 @@ a = cannon_shells()
 a.run()
 a.show_results()
 ```
+###image
