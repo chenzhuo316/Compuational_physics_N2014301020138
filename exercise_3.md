@@ -61,7 +61,7 @@ a.run()
 a.show_results()
 ```
 ###image
-![](https://github.com/chenzhuo316/Compuational_physics_N2014301020138/blob/master/gif/4BBCF4D9-347D-4CCD-BA64-5EB26AF7742D.png<br>
+![](https://github.com/chenzhuo316/Compuational_physics_N2014301020138/blob/master/gif/4BBCF4D9-347D-4CCD-BA64-5EB26AF7742D.png)<br>
 range
 ![](https://github.com/chenzhuo316/Compuational_physics_N2014301020138/blob/master/gif/E583A50D-C898-4938-A4B6-DD775FCBBA15.png)<br>
 range
