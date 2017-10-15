@@ -52,7 +52,7 @@ class cannon_shells:
                 'size': 16,
         }
         pl.title('Trajectory of cannon shell')
-        pl.text(0.95 * max(self.x), 0.95 * max(self.y),'No drag', fontdict=font)
+        pl.text(0.95 * max(self.x), 0.95 * max(self.y),'No drag and density', fontdict=font)
         pl.plot(self.x,self.y)
         pl.xlabel('x ($km$)')
         pl.ylabel('y ($km$)')
