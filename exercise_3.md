@@ -62,6 +62,6 @@ a.show_results()
 ```
 ###image
 ![](https://github.com/chenzhuo316/Compuational_physics_N2014301020138/blob/master/gif/4BBCF4D9-347D-4CCD-BA64-5EB26AF7742D.png)<br>
-range
+range from 0 to 45
 ![](https://github.com/chenzhuo316/Compuational_physics_N2014301020138/blob/master/gif/E583A50D-C898-4938-A4B6-DD775FCBBA15.png)<br>
-range
+range from 45 to 90
