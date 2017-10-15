@@ -66,7 +66,7 @@ a.show_results()
 ![](https://github.com/chenzhuo316/Compuational_physics_N2014301020138/blob/master/gif/QQ20171015-180812%402x.png)<br>
 range from 0 to 45
 ![](https://github.com/chenzhuo316/Compuational_physics_N2014301020138/blob/master/gif/QQ20171015-180531%402x.png)<br>
-range from 45 to 90
+range from 45 to 90<br>
 ###conclusion
 1炮弹在相同的初速度和抛射角抛射的情况下，不考虑空气阻力和空气质量运动的最大高度和最远距离明显是要大于考虑空气阻力下的情况。
 2角度为45度时候，最远距离最大。
