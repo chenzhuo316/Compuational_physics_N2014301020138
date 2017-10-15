@@ -4,8 +4,8 @@ and the effect of air density(actually,ignoring the former authomatically rules 
 Compare your results with those in Figure 2.4,and with the exact solution.<br>
 ###answer
 we can get the equation when ignore air drag<br>
-![](https://github.com/chenzhuo316/Compuational_physics_N2014301020138/blob/master/gif/E583A50D-C898-4938-A4B6-DD775FCBBA15.png)<br>
-find the solution of equation
+![](https://github.com/chenzhuo316/Compuational_physics_N2014301020138/blob/master/gif/QQ20171015-175809%402x.png)<br>
+find the solution of equation<br>
 ![](https://github.com/chenzhuo316/Compuational_physics_N2014301020138/blob/master/gif/QQ20171015-150400%402x.png)<br>
 ###code
 ```import pylab as pl
