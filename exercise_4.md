@@ -176,5 +176,5 @@ for i in range(3):
 pl.show(figure)
 ```
 ### image<br>
-![]()<br>
+![](https://github.com/chenzhuo316/Compuational_physics_N2014301020138/blob/master/gif/QQ20171022-153658%402x.png)<br>
 ![]()<br>
