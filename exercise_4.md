@@ -1,4 +1,4 @@
-### Generzlize the program developed for the previous problem so that it can deal with situations in which the target is at a different altitude than the cannon.Consider cases in which the target is higher and lower than the cannon when air drag is taken into consideration.Also investigate how the minimum firing velocity required to hit the target various as the altitude of the target is varied.
+### Question:Generzlize the program developed for the previous problem so that it can deal with situations in which the target is at a different altitude than the cannon.Consider cases in which the target is higher and lower than the cannon when air drag is taken into consideration.Also investigate how the minimum firing velocity required to hit the target various as the altitude of the target is varied.
 ### answer<br>
 get the equatinos<br>
 ![](https://github.com/chenzhuo316/Compuational_physics_N2014301020138/blob/master/gif/QQ20171022-151945%402x.png)<br>
