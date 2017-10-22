@@ -142,7 +142,7 @@ class PROPER_ANGLE(object):
 #             B_m, a, alpha, T0 : coefficient of air resistance
 #             g, dt, eps: gravity acceleration, compute step size, computational tolerant error
 #             xtar, ytar: target's coordinates
-x0, y0= 0., [1000,2000,5000]
+x0, y0= 0., [1000,2000,3000]
 v0= 700.
 B_m, a, alpha, T0, g= 4E-5, 6.5E-3, 2.5, 25.+273.5, 9.8
 dt= 0.5
@@ -175,3 +175,4 @@ for i in range(3):
     pl.xlabel('x  (m)',fontsize=18)
 pl.show(figure)
 ```
+### image<br>
