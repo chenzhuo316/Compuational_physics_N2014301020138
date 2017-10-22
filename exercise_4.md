@@ -176,3 +176,5 @@ for i in range(3):
 pl.show(figure)
 ```
 ### image<br>
+![]()<br>
+![]()<br>
