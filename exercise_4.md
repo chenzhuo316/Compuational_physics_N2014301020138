@@ -3,7 +3,7 @@
 get the equatinos<br>
 ![](https://github.com/chenzhuo316/Compuational_physics_N2014301020138/blob/master/gif/QQ20171022-151945%402x.png)<br>
 come the conslusion<br>
-![]()<br>
+![](https://github.com/chenzhuo316/Compuational_physics_N2014301020138/blob/master/gif/QQ20171022-152003%402x.png)<br>
 ### code<br>
 ```python
 import math     # import packages
