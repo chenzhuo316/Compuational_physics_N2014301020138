@@ -10,7 +10,6 @@ Euler-Cromer method
 ###coed<br>
 ###iamge
 """
-
 import pylab as pl
 import math
 class  Poincare_sections:
