@@ -4,7 +4,7 @@ In constructing the Poincaré section in Figure 3.9 we plotted points only at ti
 we obtain the equation of motion<br>
 ![](https://github.com/chenzhuo316/Compuational_physics_N2014301020138/blob/master/gif/QQ20171027-233052%402x.png)<br>
 come the conclusion<br>
-![]()<br>
+![](https://github.com/chenzhuo316/Compuational_physics_N2014301020138/blob/master/gif/QQ20171027-233106%402x.png)<br>
 Euler-Cromer method
 ![]()<br>
 ###coed<br>
