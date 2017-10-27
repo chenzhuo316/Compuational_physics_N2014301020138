@@ -8,8 +8,7 @@ come the conclusion<br>
 Euler-Cromer method
 ![](https://github.com/chenzhuo316/Compuational_physics_N2014301020138/blob/master/gif/QQ20171027-233121%402x.png)<br>
 ###coed<br>
-###iamge
-"""
+```
 import pylab as pl
 import math
 class  Poincare_sections:
@@ -75,4 +74,5 @@ a=Poincare_sections()
 a.calculate()
 a.show_result()
 ```
+###iamge<br>
 ![]()
