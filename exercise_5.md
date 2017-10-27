@@ -75,4 +75,6 @@ a.calculate()
 a.show_result()
 ```
 ###iamge<br>
-![]()
+![](https://github.com/chenzhuo316/Compuational_physics_N2014301020138/blob/master/gif/QQ20171027-234424%402x.png)<br>
+![]()<br>
+![]()<br>
