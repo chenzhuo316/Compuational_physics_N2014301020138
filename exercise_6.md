@@ -96,6 +96,6 @@ a.calculate()
 a.show_results()
 ```
 ###image 2<br>
-![]()<br>
-![]()<br>
-![]()<br>
+![](https://github.com/chenzhuo316/Compuational_physics_N2014301020138/blob/master/gif/QQ20171104-205136%402x.png)<br>
+![](https://github.com/chenzhuo316/Compuational_physics_N2014301020138/blob/master/gif/QQ20171104-205146%402x.png)<br>
+![](https://github.com/chenzhuo316/Compuational_physics_N2014301020138/blob/master/gif/QQ20171104-205155%402x.png)<br>
