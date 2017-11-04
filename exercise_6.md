@@ -3,7 +3,7 @@ Calculate Poincare sections for the pendulum as it undergoes the period-doubling
 plotted for each drive cycle,as in Figure 3.9. Do this for F=1.4,1.44,1.465,using the other parameters as given in connection 
 with Figure3.10. You should find that after removing the points corresponding to the initial transient the attractor in the
 period-lregime will contain only a single point.Likewise,if the behavior is period n,the attractor will contain n discrete 
-point.
+point.<br>
 ###code 1<br>
 ```python
 import math
