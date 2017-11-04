@@ -51,9 +51,9 @@ a.calculate()
 a.show_results()
 ```
 ###image<br>
-![1.4]()<br>
-![1.44]()<br>
-![1.465]()<br>
+![1.4](https://github.com/chenzhuo316/Compuational_physics_N2014301020138/blob/master/gif/QQ20171104-203820%402x.png)<br>
+![1.44](https://github.com/chenzhuo316/Compuational_physics_N2014301020138/blob/master/gif/QQ20171104-203835%402x.png)<br>
+![1.465](https://github.com/chenzhuo316/Compuational_physics_N2014301020138/blob/master/gif/QQ20171104-203748%402x.png)<br>
 ###code 2<br>
 ```python
 import math
