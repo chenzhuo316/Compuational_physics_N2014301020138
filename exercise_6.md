@@ -9,7 +9,7 @@ point.<br>
 import math
 import pylab as pl
 class harmonic:
-    def __init__(self, w_0 = 0, theta_0=0.2, time_of_duration = 10000, time_step = 0.04,g=9.8,length=9.8,q=1/2,F=1.465,D=2/3):
+    def __init__(self, w_0 = 0, theta_0=0.2, time_of_duration = 10000, time_step = 0.04,g=9.8,length=9.8,q=1/2,F=1.4,D=2/3):
         # unit of time is second
         self.n_uranium_A = [w_0]
         self.n_uranium_B = [theta_0]
