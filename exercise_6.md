@@ -51,9 +51,9 @@ a.calculate()
 a.show_results()
 ```
 ###image<br>
-![]()<br>
-![]()<br>
-![]()<br>
+![1.4]()<br>
+![1.44]()<br>
+![1.465]()<br>
 ###code 2<br>
 ```python
 import math
