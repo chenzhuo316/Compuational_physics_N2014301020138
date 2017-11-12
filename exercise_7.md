@@ -109,6 +109,7 @@ plt.show()
 ```
 ![]()<br>
 ![]()<br>
+![]()<br>
 ###Ellipse ball table
 ```
 from numpy import * 
