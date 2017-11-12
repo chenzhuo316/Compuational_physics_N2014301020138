@@ -237,5 +237,5 @@ a=billiard_on_a_square_table()
 a.calculate()
 a.show_result()
 ```
-
+![](https://github.com/chenzhuo316/Compuational_physics_N2014301020138/blob/master/gif/QQ20171112-172559%402x.png)
     
