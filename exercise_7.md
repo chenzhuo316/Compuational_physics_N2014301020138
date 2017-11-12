@@ -2,7 +2,7 @@
 Investigate the Lyapunov exponent of the stadium billiard for several values of α. You can do this qualitatively 
 by examining the behavior for only one set of initial conditions for each value of α you consider, 
 or more quantitatively by averaging over a range of initial conditions for each value of α <br>
-![]()<br>
+![](https://github.com/chenzhuo316/Compuational_physics_N2014301020138/blob/master/gif/370px-Chaos_Sensitive_Dependence.svg.png)<br>
 ###background
 Chaos theory is the field of study in mathematics that studies the behavior of dynamical systems that are highly sensitive to initial conditions—a response popularly referred to as the butterfly effect.Small differences in initial conditions (such as those due to rounding errors in numerical computation) yield widely diverging outcomes for such dynamical systems, rendering long-term prediction impossible in general.This happens even though these systems are deterministic, meaning that their future behavior is fully determined by their initial conditions, with no random elements involved. In other words, the deterministic nature of these systems does not make them predictable. This behavior is known as deterministic chaos, or simply chaos. The theory was summarized by Edward Lorenz as: 
 Chaos: When the present determines the future, but the approximate present does not approximately determine the future. 
@@ -107,9 +107,9 @@ cmp.plot_position(ax3)
 cmp.plot_phase(ax4)
 plt.show()
 ```
-![]()<br>
-![]()<br>
-![]()<br>
+![](https://github.com/chenzhuo316/Compuational_physics_N2014301020138/blob/master/gif/QQ20171112-165854%402x.png)<br>
+![](https://github.com/chenzhuo316/Compuational_physics_N2014301020138/blob/master/gif/QQ20171112-165906%402x.png)<br>
+![](https://github.com/chenzhuo316/Compuational_physics_N2014301020138/blob/master/gif/QQ20171112-170651%402x.png)<br>
 ###Ellipse ball table
 ```
 from numpy import * 
