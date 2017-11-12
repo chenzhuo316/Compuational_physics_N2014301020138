@@ -5,7 +5,7 @@ or more quantitatively by averaging over a range of initial conditions for each 
 ![](https://github.com/chenzhuo316/Compuational_physics_N2014301020138/blob/master/gif/370px-Chaos_Sensitive_Dependence.svg.png)<br>
 ###background
 Chaos theory is the field of study in mathematics that studies the behavior of dynamical systems that are highly sensitive to initial conditions—a response popularly referred to as the butterfly effect.Small differences in initial conditions (such as those due to rounding errors in numerical computation) yield widely diverging outcomes for such dynamical systems, rendering long-term prediction impossible in general.This happens even though these systems are deterministic, meaning that their future behavior is fully determined by their initial conditions, with no random elements involved. In other words, the deterministic nature of these systems does not make them predictable. This behavior is known as deterministic chaos, or simply chaos. The theory was summarized by Edward Lorenz as: 
-Chaos: When the present determines the future, but the approximate present does not approximately determine the future. 
+Chaos: When the present determines the future, but the approximate present does not approximately determine the future. <br>
 ###Round ball table
 ```
 from numpy import * 
