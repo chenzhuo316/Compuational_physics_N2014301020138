@@ -175,3 +175,8 @@ cmp.plot_position(ax1)
 cmp.plot_phase(ax2)
 plt.show()
 ```
+![](https://github.com/chenzhuo316/Compuational_physics_N2014301020138/blob/master/gif/QQ20171112-171432%402x.png)<br>
+![](https://github.com/chenzhuo316/Compuational_physics_N2014301020138/blob/master/gif/QQ20171112-171509%402x.png)<br>
+![](https://github.com/chenzhuo316/Compuational_physics_N2014301020138/blob/master/gif/QQ20171112-171509%402x.png)<br>
+
+    
