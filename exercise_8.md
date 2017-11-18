@@ -1,4 +1,5 @@
 ###In this text, we compare the planetary orbits with different values of β in Fg=GMsMe/(r^β). Further more, we study orbits with the same value of β and compare the behavior with different values of the ellipticity of the orbit, then we would find the stability of the orbits depends on the ellipticity when is not equal to 2.<br>
+
 ###answer
 According to Newton's law of graviation the magnitude pf this force is given by<br>
 ![](https://github.com/chenzhuo316/Compuational_physics_N2014301020138/blob/master/gif/QQ20171118-145857%402x.png)<br>
