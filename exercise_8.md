@@ -48,14 +48,14 @@ a=planet_orbit()
 a.run()
 a.show_result()
 ```
-###images when β=1. 1.5 1.9 2 2.1 2.5 3
-![]()<br>
-![]()<br>
-![]()<br>
-![]()<br>
-![]()<br>
-![]()<br>
-![]()<br>
+###images when β=1 1.5 1.9 2 2.1 2.5 3
+![](https://github.com/chenzhuo316/Compuational_physics_N2014301020138/blob/master/gif/1.png)<br>
+![](https://github.com/chenzhuo316/Compuational_physics_N2014301020138/blob/master/gif/1%2C5.png)<br>
+![](https://github.com/chenzhuo316/Compuational_physics_N2014301020138/blob/master/gif/1%2C9.png)<br>
+![](https://github.com/chenzhuo316/Compuational_physics_N2014301020138/blob/master/gif/2.png)<br>
+![](https://github.com/chenzhuo316/Compuational_physics_N2014301020138/blob/master/gif/QQ20171118-152310%402x.png)<br>
+![](https://github.com/chenzhuo316/Compuational_physics_N2014301020138/blob/master/gif/2%2C5.png)<br>
+![](https://github.com/chenzhuo316/Compuational_physics_N2014301020138/blob/master/gif/QQ20171118-152336%402x.png)<br>
 ###change initial velocity when β is fixed
 ```
 import math
