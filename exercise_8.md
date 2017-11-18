@@ -90,3 +90,4 @@ a=planet_orbit()
 a.run()
 a.show_result()
 ```
+![](https://github.com/chenzhuo316/Compuational_physics_N2014301020138/blob/master/gif/QQ20171118-152430%402x.png)
