@@ -48,6 +48,14 @@ a=planet_orbit()
 a.run()
 a.show_result()
 ```
+###images when β=1. 1.5 1.9 2 2.1 2.5 3
+![]()<br>
+![]()<br>
+![]()<br>
+![]()<br>
+![]()<br>
+![]()<br>
+![]()<br>
 ###change initial velocity when β is fixed
 ```
 import math
