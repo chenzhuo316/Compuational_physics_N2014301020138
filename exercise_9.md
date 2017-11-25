@@ -45,7 +45,7 @@ plt.ylabel('theta(radians)')
 plt.xlim(0,15)
 plt.show()
 ```
-![](https://github.com/kolir/compuational_physics_N2014301020137/blob/887ea9fa7ecc5cadaf05cd8edc6ae08488b7d671/File_2/10.1.png)<br>
+![]()<br>
 ```python
 from math import pi,sqrt,sin,cos
 import matplotlib.pyplot as plt
