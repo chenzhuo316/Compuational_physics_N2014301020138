@@ -45,7 +45,7 @@ plt.ylabel('theta(radians)')
 plt.xlim(0,15)
 plt.show()
 ```
-![]()<br>
+![](https://github.com/chenzhuo316/Compuational_physics_N2014301020138/blob/master/gif/QQ20171125-181753%402x.png)<br>
 ###
 ```python
 from math import pi,sqrt,sin,cos
@@ -91,6 +91,6 @@ plt.ylabel('dtheta(radians)')
 plt.xlim(0,15)
 plt.show()
 ```
-![]()<br>
+![](https://github.com/chenzhuo316/Compuational_physics_N2014301020138/blob/master/gif/QQ20171125-181907%402x.png)<br>
 ###
 
