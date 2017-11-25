@@ -46,6 +46,7 @@ plt.xlim(0,15)
 plt.show()
 ```
 ![]()<br>
+###
 ```python
 from math import pi,sqrt,sin,cos
 import matplotlib.pyplot as plt
@@ -90,4 +91,6 @@ plt.ylabel('dtheta(radians)')
 plt.xlim(0,15)
 plt.show()
 ```
+![]()<br>
+###
 
