@@ -105,7 +105,9 @@ cmp.Potential_picture(ax1,-1,1,-1,1)
 plt.show(fig)
 ```
 ###
-![]()<br>
+![](https://github.com/chenzhuo316/Compuational_physics_N2014301020138/blob/master/gif/3798441-79b33d046fadd8c1.png)<br>
+![](https://github.com/chenzhuo316/Compuational_physics_N2014301020138/blob/master/gif/3798441-af0d45de8c23a78d.png)<br>  
 中空的金属四方棱柱型的空间，棱柱上电势保持为0伏特，棱柱内部有两个对称摆放的电容盘，它们的电势分别保持为1v和-1v<be>
-![]()<br>  
+![](https://github.com/chenzhuo316/Compuational_physics_N2014301020138/blob/master/gif/3798441-b7ca2f9c1b08daad.png)<br>  
+![](https://github.com/chenzhuo316/Compuational_physics_N2014301020138/blob/master/gif/3798441-c456adbf4b380494.png)<br>      
 
