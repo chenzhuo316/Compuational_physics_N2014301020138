@@ -1,10 +1,10 @@
 ###In this text, we study the electric potentials and fields of the capacitor problem. We use the symmetry of the capacitor problem to write a program that obtains the result by calculating the potential in only half od one quadrant of the x-y plane. Further more, we use both the Jacobi method and the SOR method to solve the problem, and compare the number of iterations for a fixed accuracy.
 ###
 The space potential without any charge satisfies the Laplasse equation<br>
-![]()<br>
+![](https://github.com/chenzhuo316/Compuational_physics_N2014301020138/blob/master/gif/QQ20171203-130509%402x.png)<br>
 come the conclusion
-![]()<br>
-![]()<br>
+![](https://github.com/chenzhuo316/Compuational_physics_N2014301020138/blob/master/gif/QQ20171203-130518%402x.png)<br>
+![](https://github.com/chenzhuo316/Compuational_physics_N2014301020138/blob/master/gif/QQ20171203-130524%402x.png)<br>
 ###
 ```
 from numpy import *
