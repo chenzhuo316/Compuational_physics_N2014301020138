@@ -1,12 +1,12 @@
 ### 5.1 Question: Solve the potential in the prism geometry in Figure 5.4
 ![](https://github.com/chenzhuo316/Compuational_physics_N2014301020138/blob/master/gif/12.10.png)<br>
 ###answer
-the space electric potential  satisfies the Laplasse equation
+the space electric potential  satisfies the Laplasse equation<br>
 ![](https://github.com/chenzhuo316/Compuational_physics_N2014301020138/blob/master/gif/12.1.png)<br>
-at the point (i,j,k) the derivative with respect to x ca be written as
+at the point (i,j,k) the derivative with respect to x ca be written as<br>
 ![]()<br>
 
-Thus, it is natural to write the second partial derivative as
+Thus, it is natural to write the second partial derivative as<br>
 ![]()<br>
 
 we come the conclusion
