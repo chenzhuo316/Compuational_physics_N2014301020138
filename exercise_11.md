@@ -1,5 +1,19 @@
 ### 5.1 Question: Solve the potential in the prism geometry in Figure 5.4
 ![]()<br>
+###answer
+the space electric potential  satisfies the Laplasse equation
+![]()<br>
+at the point (i,j,k) the derivative with respect to x ca be written as
+![]()<br>
+![]()<br>
+![]()<br>
+Thus, it is natural to write the second partial derivative as
+![]()<br>
+![]()<br>
+![]()<br>
+we come the conclusion
+![]()<br>
+![]()<br>
 ###code 1
 ```
 import matplotlib.pyplot as plt
@@ -143,4 +157,9 @@ class SOR_2(jacobi):
         #print (len(self.lattice_in))
         #print (self.lattice_in)
         return 0  
-        ```
+```
+### image
+![]()<br>
+![]()<br>
+![]()<br>
+![]()<br>
