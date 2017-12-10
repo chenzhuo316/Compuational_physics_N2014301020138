@@ -4,13 +4,18 @@
 the space electric potential  satisfies the Laplasse equation<br>
 ![](https://github.com/chenzhuo316/Compuational_physics_N2014301020138/blob/master/gif/12.1.png)<br>
 at the point (i,j,k) the derivative with respect to x ca be written as<br>
-![]()<br>
+![](https://github.com/chenzhuo316/Compuational_physics_N2014301020138/blob/master/gif/12.2.png)<br>
+![](https://github.com/chenzhuo316/Compuational_physics_N2014301020138/blob/master/gif/12.3.png)<br>
+![](https://github.com/chenzhuo316/Compuational_physics_N2014301020138/blob/master/gif/12.3.png)<br>
+
 
 Thus, it is natural to write the second partial derivative as<br>
-![]()<br>
-
+![](https://github.com/chenzhuo316/Compuational_physics_N2014301020138/blob/master/gif/12.5.png)<br>
+![](https://github.com/chenzhuo316/Compuational_physics_N2014301020138/blob/master/gif/12.6.png)<br>
+![](https://github.com/chenzhuo316/Compuational_physics_N2014301020138/blob/master/gif/12.7.png)<br>
 we come the conclusion
-![]()<br>
+![](https://github.com/chenzhuo316/Compuational_physics_N2014301020138/blob/master/gif/12.8.png)<br>
+![](https://github.com/chenzhuo316/Compuational_physics_N2014301020138/blob/master/gif/12.9.png)<br>
 
 ###code 1
 ```
