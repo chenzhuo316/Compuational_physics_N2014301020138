@@ -157,9 +157,8 @@ class SOR_2(jacobi):
         return 0  
 ```
 ### image
-![]()<br>
-![]()<br>
-![]()<br>
-![]()<br>
+![](https://github.com/chenzhuo316/Compuational_physics_N2014301020138/blob/master/gif/12.12.png)<br>
+![](https://github.com/chenzhuo316/Compuational_physics_N2014301020138/blob/master/gif/12.13.png)<br>
+
 We use initial guess V₁:
-![]()<br>
+![](https://github.com/chenzhuo316/Compuational_physics_N2014301020138/blob/master/gif/12.11.png)<br>
