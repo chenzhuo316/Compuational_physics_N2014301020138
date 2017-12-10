@@ -163,3 +163,5 @@ class SOR_2(jacobi):
 ![]()<br>
 ![]()<br>
 ![]()<br>
+We use initial guess V₁:
+![]()<br>
