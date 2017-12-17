@@ -2,11 +2,11 @@
    To solve the ideal wave equation(one dimension) 此处输入图片的描述, then set the different initial conditions to the whole string vary via time. Then choose one pointer on the string to observe its vibration via time. Finally, add some damp influence of the string's stiffness into the equation to make the model more realistic.  
    
 ###answer
-   In order to match the variation of propagation of wave, we set the r=1,we set the point at the 0.05 length away from edge to see its vibration. then we do FFT to it signal and get its power spectrum. In this situation, we set the c=300m/s, the string is 2m and ![](),so that we can determine ![](). We have set two different conditions, one is Guassian wave packet,the other is that string is plucked at the middle. 
+   In order to match the variation of propagation of wave, we set the r=1,we set the point at the 0.05 length away from edge to see its vibration. then we do FFT to it signal and get its power spectrum. In this situation, we set the c=300m/s, the string is 2m and ![](https://github.com/chenzhuo316/Compuational_physics_N2014301020138/blob/master/gif/687474703a2f2f6c617465782e636f6465636f67732e636f6d2f6769662e6c617465783f25354344656c7461253230783d302e30316d.gif),so that we can determine ![](https://github.com/chenzhuo316/Compuational_physics_N2014301020138/blob/master/gif/687474703a2f2f6c617465782e636f6465636f67732e636f6d2f6769662e6c617465783f25354344656c7461253230743d25354344656c7461253230782f2532387263253239.gif). We have set two different conditions, one is Guassian wave packet,the other is that string is plucked at the middle. 
    we have 
-![]()<br>
+![](https://github.com/chenzhuo316/Compuational_physics_N2014301020138/blob/master/gif/687474703a2f2f6c617465782e636f6465636f67732e636f6d2f6769662e6c617465783f253543667261632537422535437061727469616c25354532792537442537422535437061727469616c25374274253545322537442537443d6325354532253742253543667261632537422535437061727469616c.gif)<br>
    come the conclusion
-![]()<br>
+![](https://github.com/chenzhuo316/Compuational_physics_N2014301020138/blob/master/gif/687474703a2f2f6c617465782e636f6465636f67732e636f6d2f6769662e6c617465783f79253238692c6e26706c75733b312532393d32253542322d3272253545322d36253543657073696c6f6e2532304d2535453225354479253238692c6e2532392d79253238692c6e2d3125323926706c75733b7225.gif)<br>
 
 ###code
 ```
@@ -103,3 +103,8 @@ plt.ylabel('signal')
 plt.title('damp string signal')
 plt.show()
 ```
+
+###image
+ compate the two condition
+![](https://github.com/chenzhuo316/Compuational_physics_N2014301020138/blob/master/gif/vibration%20damp2.png)<br>
+![](https://github.com/chenzhuo316/Compuational_physics_N2014301020138/blob/master/gif/vibration%20of%20two%20kinds.png)<br>
