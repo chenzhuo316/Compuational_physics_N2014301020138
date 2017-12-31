@@ -2,18 +2,18 @@
 ###question
 Music is an essential part of our life. A large part of the stringed instrument, for example, a guitar
 <br>
-![]()<br>
+![](https://github.com/chenzhuo316/Compuational_physics_N2014301020138/blob/master/gif/QQ20171230-013342%402x.png)<br>
 The guitar is a fretted musical instrument that usually has six strings.[1] The sound is projected either acoustically, using a hollow wooden or plastic and wood box (for an acoustic guitar), or through electrical amplifier and a speaker (for an electric guitar). It is typically played by strumming or plucking the strings with the fingers, thumb or fingernails of the right hand or with a pick while fretting (or pressing against the frets) the strings with the fingers of the left hand. The guitar is a type of chordophone, traditionally constructed from wood and strung with either gut, nylon or steel strings and distinguished from other chordophones by its construction and tuning. The modern guitar was preceded by the gittern, the vihuela, the four-course Renaissance guitar, and the five-course baroque guitar, all of which contributed to the development of the modern six-string instrument.<br>
 This task is to use numerical methods to solve wave functions for the wave propagation of strings, such as the vibration of a guitar string.<br>
 ###
 we have the central equation of wave 
-![]()<br>
+![](https://github.com/chenzhuo316/Compuational_physics_N2014301020138/blob/master/gif/QQ20171231-035703%402x.png)<br>
 Suppose the interference is very small and the moving distance of string is very small
-![]()<br>
+![](https://github.com/chenzhuo316/Compuational_physics_N2014301020138/blob/master/gif/QQ20171231-035708%402x.png)<br>
 come the conclusion
-![]()<br>
+![](https://github.com/chenzhuo316/Compuational_physics_N2014301020138/blob/master/gif/QQ20171231-035722%402x.png)<br>
 For the convenience of computing in the numerical methods,  we can set up
-![]()<br>
+![](https://github.com/chenzhuo316/Compuational_physics_N2014301020138/blob/master/gif/QQ20171231-035729%402x.png)<br>
 ### coed
 ```
 fig = plt.figure()
