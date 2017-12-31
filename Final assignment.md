@@ -10,8 +10,10 @@ we have the central equation of wave
 ![](https://github.com/chenzhuo316/Compuational_physics_N2014301020138/blob/master/gif/QQ20171231-035703%402x.png)<br>
 Suppose the interference is very small and the moving distance of string is very small
 ![](https://github.com/chenzhuo316/Compuational_physics_N2014301020138/blob/master/gif/QQ20171231-035708%402x.png)<br>
+![](https://github.com/chenzhuo316/Compuational_physics_N2014301020138/blob/master/gif/QQ20180101-012446%402x.png)<br>
 come the conclusion
 ![](https://github.com/chenzhuo316/Compuational_physics_N2014301020138/blob/master/gif/QQ20171231-035722%402x.png)<br>
+![](https://github.com/chenzhuo316/Compuational_physics_N2014301020138/blob/master/gif/QQ20180101-012452%402x.png)<br>
 For the convenience of computing in the numerical methods,  we can set up
 ![](https://github.com/chenzhuo316/Compuational_physics_N2014301020138/blob/master/gif/QQ20171231-035729%402x.png)<br>
 ### coed
