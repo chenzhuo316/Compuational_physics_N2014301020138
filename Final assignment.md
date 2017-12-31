@@ -84,5 +84,5 @@ pl.plot(range(101),b[3])
 pl.show()
 ```
 iamge
-![]()<br>
+![](https://github.com/chenzhuo316/Compuational_physics_N2014301020138/blob/master/gif/QQ20180101-022923%402x.png)<br>
 ![]()<br>
